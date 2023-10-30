@@ -2,7 +2,7 @@ package Coding;
 
 public class day_22 {
     public static void main(String[] args) {
-         int nilai = 85;
+         int nilai = 87;
 
         switch (nilai) {
             case 90:
